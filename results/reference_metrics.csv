@@ -1,0 +1,6 @@
+Model,Accuracy
+kNN scratch (k=3),0.9667
+kNN + PCA(20),0.9611
+Linear Regression + PCA,0.9056
+Polynomial Regression deg-2 + PCA,0.9722
+Decision Tree,0.8222
